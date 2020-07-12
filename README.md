@@ -1,4 +1,4 @@
-# DS102-Final-Report
+# DS102.K21-Final-Report
 Đồ án máy học thống kê - Phân loại bình luận trên một sản phẩm âm nhạc Youtube
 
 Người thực hiện:
